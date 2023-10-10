@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{2BA2BB0B-893C-4B4D-97CB-3BEC578B7ABD}">
+	<children>
+		<child name="newUser" key="{DDB38156-AEEB-4F73-8B28-B6D8A17F742B}" path="newUser.mds" />
+	</children>
+	<testItems key="{30E8EF0F-426E-4D22-AEA5-AFF50FF681C0}">
+		<children>
+			<testItem key="{DDB38156-AEEB-4F73-8B28-B6D8A17F742B}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{C1CC96E3-ECF8-41AF-BB4E-EE8A318F491D}" />
+	<analysis key="{C249EF47-B70C-4D5C-B736-BB7945D6A677}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
